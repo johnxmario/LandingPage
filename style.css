@@ -219,6 +219,7 @@ a {
 }
 
 .cta-container button{
+    flex-shrink: 0;
     background-color: rgb(55, 50, 50);
     color: white;
     font-weight: 600;
